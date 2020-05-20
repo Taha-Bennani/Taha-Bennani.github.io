@@ -22,6 +22,3 @@
     <td>souad.bouasker@gmail.com</td>
   </tr>
 </table>
-
-<!--</body>-->
-</html>
