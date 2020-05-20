@@ -51,4 +51,8 @@
     <td>Tarik Agouti</td>
     <td>todo</td>
   </tr>
+  <tr>
+    <td>Djamal Ben Slimane</td>
+    <td>todo</td>
+  </tr>
 </table>
