@@ -23,3 +23,28 @@
     <td>souad.bouasker@gmail.com</td>
   </tr>
 </table>
+<h2>
+  Membres de l'équipe Marocaine
+</h2>
+<table>
+  <tr>
+    <th>Nom et prénom</th>
+    <th>Contact</th>
+  </tr>
+  <tr>
+    <th>Abdelaziz El Fazziki</th>
+    <th>todo</th>
+  </tr>
+  <tr>
+    <th>Mohamed Sadgal</th>
+    <th>todo</th>
+  </tr>
+  <tr>
+    <th>Zahi Jarir</th>
+    <th>todo</th>
+  </tr>
+  <tr>
+    <th>Tarik Agouti</th>
+    <th>todo</th>
+  </tr>
+</table>
