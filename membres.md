@@ -22,6 +22,10 @@
     <td>Souad Bouasker</td>
     <td>souad.bouasker@gmail.com</td>
   </tr>
+  <tr>
+    <td>Hamadi Hbaieb</td>
+    <td>Todo</td>
+  </tr>
 </table>
 <h2>
   Membres de l'équipe Marocaine
