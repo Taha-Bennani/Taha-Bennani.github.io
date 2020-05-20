@@ -32,19 +32,19 @@
     <th>Contact</th>
   </tr>
   <tr>
-    <th>Abdelaziz El Fazziki</th>
-    <th>todo</th>
+    <td>Abdelaziz El Fazziki</td>
+    <td>todo</td>
   </tr>
   <tr>
-    <th>Mohamed Sadgal</th>
-    <th>todo</th>
+    <td>Mohamed Sadgal</td>
+    <td>todo</td>
   </tr>
   <tr>
-    <th>Zahi Jarir</th>
-    <th>todo</th>
+    <td>Zahi Jarir</td>
+    <td>todo</td>
   </tr>
   <tr>
-    <th>Tarik Agouti</th>
-    <th>todo</th>
+    <td>Tarik Agouti</td>
+    <td>todo</td>
   </tr>
 </table>
