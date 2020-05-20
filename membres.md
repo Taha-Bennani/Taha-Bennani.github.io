@@ -1,6 +1,5 @@
 <h2>Membres de l'équipe Tunisienne</h2>
-
-<table>
+<!--<table>
   <tr>
     <th>Nom et prénom</th>
     <th>Contact</th>
@@ -21,4 +20,4 @@
     <td>Souad Bouasker</td>
     <td>souad.bouasker@gmail.com</td>
   </tr>
-</table>
+</table> -->
