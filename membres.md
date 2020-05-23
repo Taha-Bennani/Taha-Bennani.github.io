@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Hamadi Hbaieb</td>
-    <td>Todo</td>
+    <td>hbaieb.hamadi@inat.agrinet.tn</td>
   </tr>
 </table>
 <h2>
@@ -37,22 +37,22 @@
   </tr>
   <tr>
     <td>Abdelaziz El Fazziki</td>
-    <td>todo</td>
+    <td>elfazziki@uca.ma</td>
   </tr>
   <tr>
     <td>Mohamed Sadgal</td>
-    <td>todo</td>
+    <td>sadgal@uca.ma</td>
   </tr>
   <tr>
     <td>Zahi Jarir</td>
-    <td>todo</td>
+    <td>jarir@uca.ma</td>
   </tr>
   <tr>
     <td>Tarik Agouti</td>
-    <td>todo</td>
+    <td>agouti@uca.ma</td>
   </tr>
   <tr>
     <td>Djamal Ben Slimane</td>
-    <td>todo</td>
+    <td>djamal.benslimane@univ-lyon1.fr</td>
   </tr>
 </table>
