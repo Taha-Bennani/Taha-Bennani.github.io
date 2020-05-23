@@ -8,7 +8,7 @@
   <li>Université Tunis El Manar </li>
   <li>Université Cadi Ayyad</li>
   <li>Université Jandouba</li>
-  Université Carthage </li>
+  <li>Université Carthage </li>
   <li>Université Lyon1</li>
 </ul>
 
