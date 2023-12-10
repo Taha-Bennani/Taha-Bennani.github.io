@@ -3,9 +3,9 @@
 </h2>
 <table>
   <tr>
-    <th>Date</th>
+    <th>Date de publication</th>
     <th>Titre</th>
    <th>Auteurs</th>
-   <th>Lien</th>
+   <th>Support</th>
   </tr>
 </table>
