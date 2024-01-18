@@ -7,7 +7,14 @@
     <th>Titre</th>
    <th>Auteurs</th>
    <th>Lien</th>
+  </tr> 
+   <tr>
+    <th>SITIS-2022</th>
+    <th>Smart Irrigation Management System</th>
+   <th>Bassem Sellami, Abdelaziz El Fazziki, Mohamed Taha Bennani, Sadok Ben Yahia</th>
+   <th><a href="https://ieeexplore.ieee.org/document/10089994">Version PDF</a></th>
   </tr>
+  <tr>
   <tr>
     <th>COMPSAC-2022</th>
     <th>Faultload time model of the MQTT protocol publish service</th>
@@ -57,12 +64,14 @@
 <table>
   <tr>
       <th>Date</th>
+    <th>Nom</th>
     <th>Titre</th>
    <th>Directeur de mémoire</th>
    <th>Lieu du stage</th>
   </tr>
    <tr>
        <th>Février 2021-Février 2022</th>
+     <th>Amina Jandoubi</th>
     <th>Caractérisation de la sûreté de
 fonctionnement pour une architecture
 IoT : Génération des séquences
