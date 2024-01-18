@@ -43,6 +43,7 @@
 <table>
   <tr>
     <th>Date</th>
+     <th>Nom</th>
     <th>Titre</th>
     <th>Directeur de thèse</th>
    <th>Superviseur</th>
@@ -50,6 +51,7 @@
   </tr>
    <tr>
       <th>2022-jusq'a présent</th>
+      <th>Amina Jandoubi</th>
     <th>Caractérisation de la sûreté de fonctionnement par injection de fautes des protocoles de communications
 </th>
     <th>Olfa Mosbahi</th>
