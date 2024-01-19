@@ -12,6 +12,7 @@
     <td>SITIS-2023</td>
     <td>Equitable water distribution: Solution based on genetic algorithms</td>
     <td>Amina Jandoubi, Abdelaziz El Fazziki, Mohamed Taha Bennani, Olfa Mosbahi</td>
+    <td></td>
   </tr>
   <tr>
     <td>CUPS-2023</td>
@@ -47,23 +48,22 @@
    <th>Laboratoire de recherches</th>
   </tr>
    <tr>
-      <th>2022-jusq'a présent</th>
-      <th>Amina Jandoubi</th>
-    <th>Caractérisation de la sûreté de fonctionnement par injection de fautes des protocoles de communications
-</th>
-    <th>Olfa Mosbahi</th>
-   <th>Mohamed Taha Bennani</th>
-   <th>Laboratoire d’Informatique, de Parallélisme et des Systèmes Intelligents Communicants (LIPSIC)</th>
+      <td>2022-jusq'a présent</td>
+      <td>Amina Jandoubi</td>
+    <td>Caractérisation de la sûreté de fonctionnement par injection de fautes des protocoles de communications
+</td>
+    <td>Olfa Mosbahi</td>
+   <td>Mohamed Taha Bennani</td>
+   <td>Laboratoire d’Informatique, de Parallélisme et des Systèmes Intelligents Communicants (LIPSIC)</td>
   </tr>
   <tr>
-      <th>Novembre 2022</th>
-      <th>Bassem Sellami</th>
-    <th>Investigation of Deep Learning and Blockchain applicability for software-Defined 
-Internet of Things
-</th>
-    <th>Sadok Ben Yahia</th>
-   <th></th>
-   <th>Laboratoire en Informatique en Programmation Algorithmique et Heuristique (LIPAH)</th>
+      <td>Novembre 2022</td>
+      <td>Bassem Sellami</td>
+      <td>Investigation of Deep Learning and Blockchain applicability for software-Defined 
+Internet of Things </td>
+    <td>Sadok Ben Yahia</td>
+    <td></td>
+    <td>Laboratoire en Informatique en Programmation Algorithmique et Heuristique (LIPAH)</td>
   </tr>
 </table>
 <h2>
@@ -72,38 +72,31 @@ Internet of Things
 
 <table>
   <tr>
-      <th>Date</th>
+    <th>Date</th>
     <th>Nom</th>
     <th>Titre</th>
-   <th>Directeur de mémoire</th>
-   <th>Lieu du stage</th>
+    <th>Directeur de mémoire</th>
+    <th>Lieu du stage</th>
   </tr>
  <tr>
-       <th>Juillet 2023</th>
-     <th>Issouf Bakayoko</th>
-    <th>Adaptation et automatisation de l'évaluation de la fiabilité d'une architecture multi-agents pour la gestion de l'eau </th>
-   <th>Mohamed Taha Bennani</th>
-   <th>Laboratoire d’Informatique, de Parallélisme et des Systèmes Intelligents Communicants (LIPSIC)</th>
+    <td>Juillet 2023</td>
+    <td>Issouf Bakayoko</td>
+    <td>Adaptation et automatisation de l'évaluation de la fiabilité d'une architecture multi-agents pour la gestion de l'eau </td>
+   <td>Mohamed Taha Bennani</td>
+   <td>Laboratoire d’Informatique, de Parallélisme et des Systèmes Intelligents Communicants (LIPSIC)</td>
   </tr> 
    <tr>
-       <th>Février 2022</th>
-     <th>Amina Jandoubi</th>
-    <th>Caractérisation de la sûreté de
-fonctionnement pour une architecture
-IoT : Génération des séquences
-d’injection de fautes
-</th>
-   <th>Mohamed Taha Bennani</th>
-   <th>Laboratoire d’Informatique, de Parallélisme et des Systèmes Intelligents Communicants (LIPSIC)</th>
+    <td>Février 2022</td>
+    <td>Amina Jandoubi</td>
+    <td>Caractérisation de la sûreté de fonctionnement pour une architecture IoT : Génération des séquences d’injection de fautes </td>
+   <td>Mohamed Taha Bennani</td>
+   <td>Laboratoire d’Informatique, de Parallélisme et des Systèmes Intelligents Communicants (LIPSIC)</td>
   </tr>
    <tr>
-       <th>Février 2022</th>
-     <th>Wided Labidi</th>
-    <th>Approche concolique pour la
-génération des entrées de tests des
-réseaux neuronaux profonds
-</th>
-   <th>Mohamed Taha Bennani</th>
-   <th>Laboratoire d’Informatique, de Parallélisme et des Systèmes Intelligents Communicants (LIPSIC)</th>
+    <td>Février 2022</td>
+    <td>Wided Labidi</td>
+    <td>Approche concolique pour la génération des entrées de tests des réseaux neuronaux profonds</td>
+    <td>Mohamed Taha Bennani</td>
+    <td>Laboratoire d’Informatique, de Parallélisme et des Systèmes Intelligents Communicants (LIPSIC)</td>
   </tr>
 </table>
