@@ -110,8 +110,3 @@ réseaux neuronaux profonds
    <th>Laboratoire d’Informatique, de Parallélisme et des Systèmes Intelligents Communicants (LIPSIC)</th>
   </tr>
 </table>
-
-
-
-
-
