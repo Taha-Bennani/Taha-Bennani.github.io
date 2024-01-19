@@ -9,30 +9,27 @@
    <th>Lien</th>
   </tr> 
   <tr>
-    <th>SITIS-2023</th>
-    <th>Equitable water distribution: Solution based on genetic algorithms
-</th>
-   <th>Amina Jandoubi, , Abdelaziz El Fazziki, Mohamed Taha Bennani, Olfa Mosbahi</th>
-   <th></th>
+    <td>SITIS-2023</td>
+    <td>Equitable water distribution: Solution based on genetic algorithms</td>
+    <td>Amina Jandoubi, Abdelaziz El Fazziki, Mohamed Taha Bennani, Olfa Mosbahi</td>
   </tr>
   <tr>
-    <th>CUPS-2023</th>
-    <th>MQTT protocol services attacks formalization with CTL formulas</th>
-   <th>Amina Jandoubi, Mohamed Taha Bennani, Olfa Mosbahi</th>
-   <th><a href="https://www.researchgate.net/publication/376238360_MQTT_protocol_services_attacks_formalization_with_CTL_formulas">Version PDF</a></th>
+    <td>CUPS-2023</td>
+    <td>MQTT protocol services attacks formalization with CTL formulas</td>
+    <td>Amina Jandoubi, Mohamed Taha Bennani, Olfa Mosbahi</td>
+    <td><a href="https://www.researchgate.net/publication/376238360_MQTT_protocol_services_attacks_formalization_with_CTL_formulas">Version PDF</a></td>
   </tr>
    <tr>
-    <th>SITIS-2022</th>
-    <th>Smart Irrigation Management System</th>
-   <th>Bassem Sellami, Abdelaziz El Fazziki, Mohamed Taha Bennani, Sadok Ben Yahia</th>
-   <th><a href="https://ieeexplore.ieee.org/document/10089994">Version PDF</a></th>
+    <td>SITIS-2022</td>
+    <td>Smart Irrigation Management System</td>
+    <td>Bassem Sellami, Abdelaziz El Fazziki, Mohamed Taha Bennani, Sadok Ben Yahia</td>
+    <td><a href="https://ieeexplore.ieee.org/document/10089994">Version PDF</a></td>
   </tr>
   <tr>
-  <tr>
-    <th>COMPSAC-2022</th>
-    <th>Faultload time model of the MQTT protocol publish service</th>
-   <th>Amina Jandoubi, Mohamed Taha Bennani, Abdelaziz El Fazziki</th>
-   <th><a href="https://ieeexplore.ieee.org/document/9842499?denied=">Version PDF</a></th>
+    <td>COMPSAC-2022</td>
+    <td>Faultload time model of the MQTT protocol publish service</td>
+    <td>Amina Jandoubi, Mohamed Taha Bennani, Abdelaziz El Fazziki</td>
+    <td><a href="https://ieeexplore.ieee.org/document/9842499?denied=">Version PDF</a></td>
   </tr>
 </table>
 
