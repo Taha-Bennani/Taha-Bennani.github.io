@@ -47,8 +47,8 @@
     <td>bacem.hammami@etudiant-fst.utm.tn </td>
   </tr>          
       <tr>
-    <td> hana.riahi@etudiant-fst.utm.tn </td>
-    <td></td>
+    <td> Hana Riahi  </td>
+    <td>hana.riahi@etudiant-fst.utm.tn</td>
   </tr>                 
 <tr>
     <td> Ahmedna Cheikh  </td>
