@@ -54,6 +54,10 @@
     <td> Ahmedna Cheikh  </td>
     <td>ahmedna.cheikh@etudiant-fst.utm.tn</td>
   </tr> 
+  <tr>
+    <td> Bassem Sellami  </td>
+    <td>bassem.sellami@fst.utm.tn</td>
+  </tr> 
 </table>
 <h2>
   Membres de l'équipe Marocaine
